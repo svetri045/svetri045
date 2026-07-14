@@ -61,7 +61,7 @@ Portfolio: https://svetri045.github.io/portfolio
 
 GitHub: https://github.com/svetri045
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=svetri045&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=svetri045&show_icons=true&cache_seconds=86400)
 
