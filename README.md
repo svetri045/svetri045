@@ -60,3 +60,8 @@ LinkedIn: https://www.linkedin.com/in/vetrivel-selvaraj-362965347/
 Portfolio: https://svetri045.github.io/portfolio
 
 GitHub: https://github.com/svetri045
+
+GitHub Stats
+
+![Vetri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=svetri045\&show_icons=true\&theme=tokyonight)
+
