@@ -30,15 +30,20 @@ Backend
 Database
 
 * MongoDB
-* MS Access
 
-Tools
+Tools & AI Platforms
 
 * Git
 * GitHub
 * VS Code
 * Canva
 * Figma
+* ChatGPT
+* GitHub Copilot
+* Claude AI
+* Gemini
+* Postman
+
 
 Featured Projects
 
