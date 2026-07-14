@@ -1,136 +1,142 @@
-<h1 align="center">Hi , I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Vetrivel S</h1>
+
 <h3 align="center">
- Full Stack Web Developer | Passionate Problem Solver | Building 
-Modern Web Experiences
+MERN Stack Developer | Full Stack Web Developer | Building Modern Web Applications
 </h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?
-font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=
-true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+
-%7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+A
-wesome!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Full+Stack+Web+Developer;Always+Learning+New+Technologies;Building+Real+World+Projects" />
 </p>
+
 ---
-## About Me
-- I'm a **Full Stack Web Developer** passionate about creating 
-responsive and user-friendly web applications.
-- I enjoy turning ideas into real-world projects.
-- Currently learning **Next.js, TypeScript, and Cloud 
-Technologies**.
-- Open to collaborating on exciting web development and open-
-source projects.
-- Always exploring modern technologies and best development 
-practices.
-- Fun Fact: **I love solving coding challenges and building 
-useful applications.**
+
+## 👨‍💻 About Me
+
+- 💼 Full Stack Web Developer
+- 🌱 Currently learning Advanced MERN Stack Development
+- 🔭 Working on a MERN Job Portal Project
+- 💬 Ask me about React.js, Node.js, Express.js, MongoDB and JavaScript
+- 🚀 Passionate about building responsive and user-friendly applications
+- 📍 Tamil Nadu, India
+
 ---
-## Connect With Me <p align="left">
-<a href="[LinkedIn URL]">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-
-the-badge&logo=linkedin"/>
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/vetrivel-selvaraj-362965347/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="[Portfolio URL]">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-
-the-badge&logo=vercel"/>
+
+<a href="https://svetri045.github.io/portfolio">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
-<a href="mailto:[Email Address]">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-
-badge&logo=gmail"/>
+
+<a href="https://github.com/svetri045">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
+
 </p>
+
 ---
-# Tech Stack
+
+# 🛠️ Tech Stack
+
 <p align="center">
-<img src="https://skillicons.dev/icons?
-i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,
-tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,postman,vite" />
 </p>
+
 ---
-# Featured Projects
-## Portfolio Website
-Modern personal portfolio showcasing projects, skills, and 
-experience. **Tech Stack**
-`HTML` `CSS` `JavaScript` `React`
- Live Demo: [Portfolio URL]
- Repository: [GitHub Repository]
----
-## E-Commerce Website
-A responsive online shopping platform with authentication and cart 
-functionality.
+
+# 🚀 Projects
+
+## 🌐 Portfolio Website
+
+Personal portfolio website showcasing my skills, projects, and professional experience.
+
 **Tech Stack**
-`React` `Node.js` `Express` `MongoDB`
- Live Demo: [Project URL]
- Repository: [GitHub Repository]
+
+`HTML` `CSS` `JavaScript`
+
 ---
-## Task Management App
-A productivity application to organize daily tasks with 
-authentication.
+
+## 🛒 Flipkart Clone
+
+Responsive e-commerce frontend inspired by Flipkart with modern UI and product browsing features.
+
 **Tech Stack**
-`React` `Firebase` `Tailwind CSS`
- Live Demo: [Project URL]
- Repository: [GitHub Repository]
+
+`HTML` `CSS` `JavaScript`
+
 ---
-# GitHub Stats <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?
-username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_bord
-er=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/
-top-langs/?
-username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde
-r=true"/>
-</p>
+
+## ✅ To-Do List App
+
+Task management application with add, edit, delete and task tracking functionality.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
 ---
-# GitHub Streak
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?
-user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
-</p>
+
+## 💼 MERN Job Portal (In Progress)
+
+Full Stack Job Portal with authentication, company management, job posting and application tracking.
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB`
+
 ---
-# Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?
-username=[GitHubUsername]&theme=tokyo-night"/>
-</p>
+
+# 🎯 Currently Working On
+
+- Building a MERN Job Portal
+- Advanced React.js Development
+- REST API Development
+- MongoDB Database Design
+- Full Stack Application Development
+
 ---
-# GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?
-username=[GitHubUsername]&theme=tokyonight&no-frame=true&margin-
-w=10"/>
-</p>
+
+# 📚 Currently Learning
+
+- Advanced React.js
+- Node.js Backend Development
+- MongoDB Optimization
+- Authentication & Authorization
+- Full Stack Architecture
+
 ---
-# 🛠 Currently Working On
-- Building full-stack web applications.
-- Learning advanced React ecosystem.
-- Exploring cloud deployment and DevOps.
-- Improving responsive UI/UX design.
----
-# Currently Learning
-- TypeScript
-- Next.js
-- Docker
-- AWS
-- System Design
-- Backend Architecture
----
-# Goals for 2026
+
+# 🎯 Goals for 2026
+
+- Complete Advanced MERN Stack Projects
+- Build Production Ready Applications
 - Contribute to Open Source
-- Build SaaS Applications
-- Master Full Stack Development
-- Learn Cloud Computing
-- Grow My Developer Portfolio
+- Strengthen Problem Solving Skills
+- Grow as a Full Stack Developer
+
 ---
-# Favorite Quote > "Code is like humor. When you have to explain it, it's bad." – 
-Cory House
+
+# 💡 Favorite Quote
+
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
+
 ---
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?
-username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=fla
-t"/>
+<img src="https://komarev.com/ghpvc/?username=svetri045&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
+
 ---
+
 <h3 align="center">
- Thanks for visiting my profile! 
+⭐ Thanks for visiting my profile!
 </h3>
+
 <p align="center">
-If you like my work, consider giving a to my repositories and connecting with me.
+Let's connect and build something amazing together 🚀
 </p>
