@@ -1,16 +1,57 @@
-## Hi there 👋
+Hi  I'm Vetrivel S
 
-<!--
-**svetri045/svetri045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MERN Stack Developer
 
-Here are some ideas to get you started:
+Passionate about building modern web applications using the MERN Stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+*  Full Stack Developer
+*  Learning Advanced MERN Stack Development
+*  Currently building a MERN Job Portal
+*  Ask me about React.js, Node.js, Express.js, MongoDB
+*  Tamil Nadu, India
+
+ Tech Stack
+
+ Frontend
+
+* HTML
+* CSS
+* JavaScript
+* React.js
+* Bootstrap
+
+Backend
+
+* Node.js
+* Express.js
+
+Database
+
+* MongoDB
+* MS Access
+
+Tools
+
+* Git
+* GitHub
+* VS Code
+* Canva
+* Figma
+
+Featured Projects
+
+* MERN Job Portal
+* Smart Finance Tracker
+* Portfolio Website
+* Flipkart Clone
+* Desktop Billing Software
+
+Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/vetrivel-selvaraj-362965347/
+
+Portfolio: https://svetri045.github.io/portfolio
+
+GitHub: https://github.com/svetri045
